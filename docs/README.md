@@ -1,5 +1,6 @@
 ---
 home: true
+heroImage: https://na.cx/i/ye2QSGJ.gif
 heroText: Github 和 4everland 上架筆記
 tagline: 程式設計真的不簡單
 actions:
