@@ -4,7 +4,6 @@
 
 在 node js 的網頁 (https://nodejs.org/en/) 選擇 LTS 的下載
 
-![](2022-04-21-19-04-38.png)
 
 ## 設置
 
